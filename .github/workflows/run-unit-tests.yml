@@ -3,7 +3,7 @@ name: Run Unit Tests
 on: [push]
 
 jobs:
-  reun-unit-tests:
+  run-unit-tests:
     name: Run unit Tests
     runs-on: ubuntu-latest
 
